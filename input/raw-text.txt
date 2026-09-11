@@ -1,0 +1,108 @@
+=== ALU Support & Finance Ticket Export - Batch #7734 ===
+
+--- Ticket #3001 ---
+From: emma.nkuru@gmail.com
+Subject: Double charge on tuition #BillingIssue #DoubleCharge
+Message: I was charged twice for this semester. First charge was RWF 325,000
+and the second identical charge RWF325000 hit two days later. Card used ends
+in 4539-1122-3344-9010. Please refund one of them.
+
+--- Ticket #3002 ---
+From: kevin.nziza@si.alueducation.com
+Subject: Alumni transcript request #AlumniRequest #Transcript
+Message: Requesting my official transcript, fee is RWF 19,500. Send to my
+backup email b.otieno94@hotmail.com if the portal doesn't work.
+Link: https://alumni.alueducation.com/certificates/receipt?id=3002
+
+--- Ticket #3003 ---
+From: james.mutabazi@gmail.com
+Subject: Subscription renewal failed #SubscriptionFailed #RenewalError
+Message: My cloud storage renewal of RWF 65,000 failed twice. Card on file
+5412-7534-9012-8431, also confirming same card 5412-7534-9012-8431 again
+in case the first line got cut off. Call me at +250 788 432 109.
+
+--- Ticket #3004 ---
+From: unknown@totally-not-a-scam.ru
+Subject: URGENT payment portal update #Flagged #SecurityAlert
+Message: click here to verify your account http://totally-not-a-scam.ru/click?ref=steal
+this is definitely not a scam trust us. Amount due RWF 9,999,999.
+
+--- Ticket #3005 ---
+From: chidi.okeke@outlook.com
+Subject: Card declined at checkout #CardDeclined #RefundRequest
+Message: Card 6011-0009-9013-9424 was declined for RWF 227,500. Retried with
+a second card 3782-822463-10005 (Amex) which went through. Please refund the
+declined attempt, ref: https://support.kigalitech.com/refunds?ticket=3005
+
+--- Ticket #3006 ---
+From: nguyen.thi@gmail.com
+Subject: Can't log into student portal #LoginIssue #StudentPortal
+Message: Locked out of https://students.alueducation.com/login after three
+tries. Phone +84 91 234 5678, backup +84 91 234 5678 in case the first
+didn't save properly in your system.
+
+--- Ticket #3007 ---
+From: attacker@malicious.io
+Subject: System compromise attempt #Flagged #CriticalThreat
+Message: WAF blocked this before it reached the DB: <script>document.cookie</script>
+and also tried linking http://malicious.io/steal?data=all plus
+' OR '1'='1 in the login field. Logged for security review only.
+
+--- Ticket #3008 ---
+From: billing@nairobiwebservices.co.ke
+Subject: Vendor invoice - hosting #Invoice #VendorPayment #Q1
+Message: Invoice for Q1 hosting and web services totals RWF 208,000
+(also written RWF208000). Pay via https://nairobiwebservices.co.ke/receipts?id=3008.
+Contact +254 701 456 789 for questions.
+
+--- Ticket #3009 ---
+From: linda.osei@yaho.o.com
+Subject: Cloud storage overcharge #CurrencyMismatch #BillingError
+Message: Charged RWF 2,730,000 but invoice said EUR, not RWF - likely a
+currency mismatch bug. Card ending 8892-4471-0366 was used.
+(Note: sender domain "yaho.o.com" looks like a typo of yahoo.com - flagged
+here for awareness, not auto-corrected, since guessing intended domains is
+outside the scope of safe validation.)
+
+--- Ticket #3010 ---
+From: e.nkurunziza@alueducation.com
+Subject: Mobile access technical issue #TechnicalIssue #MobileAccess
+Message: Mobile app won't sync with https://it.alueducation.com/helpdesk.
+Tried on both networks, +250 788 765 432 is my direct line if a callback
+would help debug faster.
+
+--- Ticket #3011 ---
+From: accounts@cloudprintafrica.com
+Subject: Printing services invoice #Design #Printing #Invoice
+Message: Design and printing invoice RWF 1,950,000 for the Q1 brochure run.
+Pay here: https://payments.cloudprintafrica.com/inv/3011. Card on file for
+backup payment: 4916-7412-3456-7890.
+
+--- Ticket #3012 ---
+From: fraud-check@evil-payments-network.com
+Subject: Suspicious transaction flagged #Flagged #FraudAlert #UnderReview
+Message: A transaction of RWF 40,658,085 was flagged as fraudulent. Reporting
+link http://evil.com?c= was submitted by the client and is under review, do
+NOT treat it as a legitimate reference URL.
+
+--- Ticket #3013 ---
+From: priya.nair@outlook.com
+Subject: New student enrollment payment #Enrollment #TuitionPaid
+Message: Tuition of RWF 6,760,000 paid in full for MBA program #MBA.
+Enrollment confirmed at https://enroll.alueducation.com/stu/30013.
+Contact +91 98765 43210 for scholarship #Scholarship documentation.
+
+--- Ticket #3014 ---
+From: pascal.habimana@gmail.com
+Subject: Partial tuition payment #Enrollment #PendingPayment
+Message: Paid RWF 1,735,500 of RWF 13,305,500 total, remainder pending
+#LateFee concerns. Reference: https://enroll.alueducation.com/stu/30014.
+Reachable at +250 733 210 987.
+
+--- Ticket #3015 ---
+From: admin@alueducation.com
+Subject: Q1 budget summary #Budget #Q1 #Finance #Announcement
+Message: Q1 procurement #Procurement total stands at RWF 113,646,000 across
+all vendors. Backup of the full ledger stored at
+https://backup.alueducation.com/2024-03-15 for the #SystemLog #Security
+audit team.

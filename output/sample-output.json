@@ -1,0 +1,138 @@
+{
+  "hashtags": [
+    "#BillingIssue",
+    "#DoubleCharge",
+    "#AlumniRequest",
+    "#Transcript",
+    "#SubscriptionFailed",
+    "#RenewalError",
+    "#Flagged",
+    "#SecurityAlert",
+    "#CardDeclined",
+    "#RefundRequest",
+    "#LoginIssue",
+    "#StudentPortal",
+    "#Invoice",
+    "#VendorPayment",
+    "#Q1",
+    "#CurrencyMismatch",
+    "#BillingError",
+    "#TechnicalIssue",
+    "#MobileAccess",
+    "#Design",
+    "#Printing",
+    "#Invoice",
+    "#Flagged",
+    "#FraudAlert",
+    "#UnderReview",
+    "#Enrollment",
+    "#TuitionPaid",
+    "#MBA",
+    "#Scholarship",
+    "#Enrollment",
+    "#PendingPayment",
+    "#LateFee",
+    "#Budget",
+    "#Q1",
+    "#Finance",
+    "#Announcement",
+    "#Procurement",
+    "#SystemLog",
+    "#Security"
+  ],
+  "currency_amounts": [
+    "RWF 325,000",
+    "RWF325000",
+    "RWF 19,500",
+    "RWF 65,000",
+    "RWF 9,999,999",
+    "RWF 227,500",
+    "RWF 208,000",
+    "RWF208000",
+    "RWF 2,730,000",
+    "RWF 1,950,000",
+    "RWF 40,658,085",
+    "RWF 6,760,000",
+    "RWF 1,735,500",
+    "RWF 13,305,500",
+    "RWF 113,646,000"
+  ],
+  "urls": {
+    "valid": [
+      "https://alumni.alueducation.com/certificates/receipt?id=3002",
+      "https://support.kigalitech.com/refunds?ticket=3005",
+      "https://students.alueducation.com/login",
+      "https://nairobiwebservices.co.ke/receipts?id=3008",
+      "https://it.alueducation.com/helpdesk",
+      "https://payments.cloudprintafrica.com/inv/3011",
+      "https://enroll.alueducation.com/stu/30013",
+      "https://enroll.alueducation.com/stu/30014",
+      "https://backup.alueducation.com/2024-03-15"
+    ],
+    "rejected": [
+      "http://totally-not-a-scam.ru/click?ref=steal",
+      "http://malicious.io/steal?data=all",
+      "http://evil.com?c="
+    ]
+  },
+  "phone_numbers": {
+    "valid": [
+      "*********109",
+      "*******463",
+      "********678",
+      "*********789",
+      "*********366",
+      "*********432",
+      "*********210",
+      "*********987"
+    ],
+    "rejected": [
+      "4539-1122-3344-9010",
+      "5412-7534-9012-8431",
+      "6011-0009-9013-9424",
+      "4916-7412-3456-7890"
+    ]
+  },
+  "credit_cards": {
+    "valid": [
+      "**** **** **** 9010",
+      "**** **** **** 8431",
+      "**** **** **** 9424",
+      "**** **** **** 0005",
+      "**** **** **** 7890"
+    ],
+    "rejected": [
+      "8892-4471-0366"
+    ]
+  },
+  "emails": {
+    "valid": [
+      "l*********@yaho.o.com",
+      "k**********@si.alueducation.com",
+      "p*********@outlook.com",
+      "a****@alueducation.com",
+      "e*********@gmail.com",
+      "n*********@gmail.com",
+      "c**********@outlook.com",
+      "e***********@alueducation.com",
+      "a*******@cloudprintafrica.com",
+      "p**************@gmail.com",
+      "b******@nairobiwebservices.co.ke",
+      "b*********@hotmail.com",
+      "j*************@gmail.com"
+    ],
+    "alu_official": [
+      "a****@alueducation.com",
+      "e***********@alueducation.com"
+    ],
+    "alu_alumni": [],
+    "alu_si": [
+      "k**********@si.alueducation.com"
+    ],
+    "rejected": [
+      "fraud-check@evil-payments-network.com",
+      "attacker@malicious.io",
+      "unknown@totally-not-a-scam.ru"
+    ]
+  }
+}
